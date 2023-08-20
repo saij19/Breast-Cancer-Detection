@@ -55,7 +55,7 @@ The different models we have used to for prediction are:
 
 ## Model Building
 
-![](./model_ch.png)
+![]()
 
 ## Conclusion
 
