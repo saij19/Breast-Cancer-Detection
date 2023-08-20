@@ -1,4 +1,4 @@
-# Breast-Cancer-Detection 
+# Breast Cancer Detection 
 
 This project was done under my specialisation stream of Data Science. 
 
