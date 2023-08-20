@@ -55,7 +55,7 @@ The different models we have used to for prediction are:
 
 ## Model Building
 
-![](model_ch.png)
+![](https://github.com/saij19/Breast-Cancer-Detection/blob/645fa009aeb51e5a4dab732c3038d77293ca7b4a/model_ch.png)
 
 ## Conclusion
 
